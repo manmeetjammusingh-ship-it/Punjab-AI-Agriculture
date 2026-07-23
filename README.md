@@ -28,6 +28,6 @@ This repository contains research materials, datasets, and analysis for my M.Sc.
 
 ## Author
 
-Meet Singh  
+Manmeet Singh  
 M.Sc. Agricultural Economics  
 Punjab Agricultural University
