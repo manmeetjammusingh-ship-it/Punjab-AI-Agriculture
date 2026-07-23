@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Punjab AI Agriculture"
+authors:
+  - family-names: Singh
+    given-names: Meet
+message: "If you use this repository, please cite it."
+license: MIT
